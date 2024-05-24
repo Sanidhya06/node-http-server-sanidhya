@@ -4,7 +4,7 @@ git add Readme.md
 git commit -m "Add Readme file"
 git branch -M main
 git remote add origin https://github.com/Sanidhya06/node-http-server-sanidhya.git
-git push -u origin main
+git push -f origin main
 
 
 git clone https://github.com/Sanidhya06/node-http-server-sanidhya.git  //for pull
@@ -12,3 +12,5 @@ git clone https://github.com/Sanidhya06/node-http-server-sanidhya.git  //for pul
 git pull
 
 # node-http-server
+
+hello this is first push pop from git lable
